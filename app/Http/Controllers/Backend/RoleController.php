@@ -1,0 +1,16 @@
+<?php
+
+namespace App\Http\Controllers\Backend;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Http\Request;
+
+class RoleController extends Controller
+{
+    // Contrôleur pour RoleController
+    
+    public function index()
+    {
+        // Logique d'index
+    }
+}
