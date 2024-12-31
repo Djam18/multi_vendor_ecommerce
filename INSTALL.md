@@ -1,0 +1,3 @@
+# INSTALL
+
+Documentation pour INSTALL.
